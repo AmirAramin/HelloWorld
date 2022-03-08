@@ -4,6 +4,8 @@ First Repo
 
 ## BFG
 
+BFG does not clean the Current HEAD!!! 
+
 git clone --mirror https//Repo
 
 git gc
